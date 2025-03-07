@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#Snapshots
+styling-react-components-1.jpg
+styling-react-components-2.jpg
